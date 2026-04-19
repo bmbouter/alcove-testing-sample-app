@@ -1,3 +1,3 @@
-# alcove-testing-utils
+# alcove-testing-sample-app
 
-String utilities for Alcove multi-repo SDLC testing. Contains a `strutil` package with a deliberate bug in `Reverse`.
+Sample application for Alcove multi-repo SDLC testing. Contains a `strutil` package with a deliberate bug in `Reverse`.
